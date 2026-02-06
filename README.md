@@ -6,3 +6,5 @@ cosa que no le pedi pero lo hizo quitar volumen etc eso esta muy bien logrado ,
 
 2. Analice el codigo generado por la IA. Que errores encuentra? Puede identificar alguna mejora? Cuales? Justifique
 
+lo uncio que diria que el codigo no es modular lo demas esta bien le pedi que use patrones y los aplico bien pero el codigo esta desornadenado y al ser tan largo incluso para la ai seria
+un dolorcito ordenarlo modularlo , creo mucho codigo con poco prompt
